@@ -1,0 +1,55 @@
+/* styles.css */
+
+/* Outer container */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+  }
+  
+  
+  
+  /* Header */
+  
+  .header {
+    height: auto;
+    padding: 1.5em;
+    display: flex; /* Enable Flexbox */
+    flex-direction: column;
+    justify-content: center; /* Horizontally center the text */
+    align-items: center; /* Vertically center the text */
+    text-align: center;
+    vertical-align: middle;
+    background-color: #f0f8ff; /* Example color for subtle primary */
+  
+  }
+  
+  .header h1 {
+    font-weight: bold;
+  }
+  
+  /* Content section */
+  .content {
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  
+  .content h3{
+    font-weight: bold
+  }
+  
+  
+  
+  /* Footer */
+  .footer {
+    margin-top: auto;
+    background-color: #f8f9fa;
+    text-align: center;
+    font-style:italic;
+  }
+  

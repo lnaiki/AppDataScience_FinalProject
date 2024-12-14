@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Josiah\\Desktop\\data_projects\\cpi_dashboard",
+        "app_url": "https://iu-msds-josiahkeime.shinyapps.io/cpi_dashboard/",
+        "app_id": 13483963,
+        "app_guid": null,
+        "title": "CPI_dashboard",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}

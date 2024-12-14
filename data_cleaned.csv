@@ -1,0 +1,1441 @@
+Year,Category,Region,Month,CPI,Date
+2014,All items,US,Jan,233.916,2014-01-01
+2015,All items,US,Jan,233.707,2015-01-01
+2016,All items,US,Jan,236.916,2016-01-01
+2017,All items,US,Jan,242.839,2017-01-01
+2018,All items,US,Jan,247.867,2018-01-01
+2019,All items,US,Jan,251.712,2019-01-01
+2020,All items,US,Jan,257.971,2020-01-01
+2021,All items,US,Jan,261.582,2021-01-01
+2022,All items,US,Jan,281.148,2022-01-01
+2023,All items,US,Jan,299.17,2023-01-01
+2014,Transportation,US,Jan,213.45,2014-01-01
+2015,Transportation,US,Jan,190.871,2015-01-01
+2016,Transportation,US,Jan,190.162,2016-01-01
+2017,Transportation,US,Jan,199.292,2017-01-01
+2018,Transportation,US,Jan,205.338,2018-01-01
+2019,Transportation,US,Jan,202.57,2019-01-01
+2020,Transportation,US,Jan,208.284,2020-01-01
+2021,Transportation,US,Jan,205.631,2021-01-01
+2022,Transportation,US,Jan,248.424,2022-01-01
+2023,Transportation,US,Jan,257.874,2023-01-01
+2014,All items less food and energy,US,Jan,235.367,2014-01-01
+2015,All items less food and energy,US,Jan,239.248,2015-01-01
+2016,All items less food and energy,US,Jan,244.528,2016-01-01
+2017,All items less food and energy,US,Jan,250.083,2017-01-01
+2018,All items less food and energy,US,Jan,254.638,2018-01-01
+2019,All items less food and energy,US,Jan,260.122,2019-01-01
+2020,All items less food and energy,US,Jan,266.004,2020-01-01
+2021,All items less food and energy,US,Jan,269.755,2021-01-01
+2022,All items less food and energy,US,Jan,285.996,2022-01-01
+2023,All items less food and energy,US,Jan,301.962,2023-01-01
+2014,Housing,US,Jan,230.256,2014-01-01
+2015,Housing,US,Jan,235.485,2015-01-01
+2016,Housing,US,Jan,240.424,2016-01-01
+2017,Housing,US,Jan,247.942,2017-01-01
+2018,Housing,US,Jan,254.857,2018-01-01
+2019,Housing,US,Jan,262.284,2019-01-01
+2020,Housing,US,Jan,269.468,2020-01-01
+2021,Housing,US,Jan,274.336,2021-01-01
+2022,Housing,US,Jan,289.889,2022-01-01
+2023,Housing,US,Jan,313.747,2023-01-01
+2014,Energy,US,Jan,239.551,2014-01-01
+2015,Energy,US,Jan,192.619,2015-01-01
+2016,Energy,US,Jan,180.171,2016-01-01
+2017,Energy,US,Jan,199.608,2017-01-01
+2018,Energy,US,Jan,210.663,2018-01-01
+2019,Energy,US,Jan,200.563,2019-01-01
+2020,Energy,US,Jan,213.043,2020-01-01
+2021,Energy,US,Jan,205.273,2021-01-01
+2022,Energy,US,Jan,260.653,2022-01-01
+2023,Energy,US,Jan,283.33,2023-01-01
+2014,Food and beverages,US,Jan,238.792,2014-01-01
+2015,Food and beverages,US,Jan,246.1,2015-01-01
+2016,Food and beverages,US,Jan,248.241,2016-01-01
+2017,Food and beverages,US,Jan,248.074,2017-01-01
+2018,Food and beverages,US,Jan,252.109,2018-01-01
+2019,Food and beverages,US,Jan,256.185,2019-01-01
+2020,Food and beverages,US,Jan,260.638,2020-01-01
+2021,Food and beverages,US,Jan,270.26,2021-01-01
+2022,Food and beverages,US,Jan,288.264,2022-01-01
+2023,Food and beverages,US,Jan,316.705,2023-01-01
+2014,Medical care,US,Jan,429.621,2014-01-01
+2015,Medical care,US,Jan,440.969,2015-01-01
+2016,Medical care,US,Jan,454.175,2016-01-01
+2017,Medical care,US,Jan,471.7,2017-01-01
+2018,Medical care,US,Jan,481.06,2018-01-01
+2019,Medical care,US,Jan,490.204,2019-01-01
+2020,Medical care,US,Jan,512.149,2020-01-01
+2021,Medical care,US,Jan,522.133,2021-01-01
+2022,Medical care,US,Jan,535.048,2022-01-01
+2023,Medical care,US,Jan,551.422,2023-01-01
+2014,Education,US,Jan,228.373,2014-01-01
+2015,Education,US,Jan,236.82,2015-01-01
+2016,Education,US,Jan,244.71,2016-01-01
+2017,Education,US,Jan,251.122,2017-01-01
+2018,Education,US,Jan,256.15,2018-01-01
+2019,Education,US,Jan,263.125,2019-01-01
+2020,Education,US,Jan,268.841,2020-01-01
+2021,Education,US,Jan,272.238,2021-01-01
+2022,Education,US,Jan,278.087,2022-01-01
+2023,Education,US,Jan,287.509,2023-01-01
+2014,All items,Midwest,Jan,222.247,2014-01-01
+2015,All items,Midwest,Jan,221.545,2015-01-01
+2016,All items,Midwest,Jan,223.301,2016-01-01
+2017,All items,Midwest,Jan,228.279,2017-01-01
+2018,All items,Midwest,Jan,232.028,2018-01-01
+2019,All items,Midwest,Jan,233.837,2019-01-01
+2020,All items,Midwest,Jan,239.69,2020-01-01
+2021,All items,Midwest,Jan,242.552,2021-01-01
+2022,All items,Midwest,Jan,261.657,2022-01-01
+2023,All items,Midwest,Jan,277.332,2023-01-01
+2014,All items,Northeast,Jan,251.045,2014-01-01
+2015,All items,Northeast,Jan,250.016,2015-01-01
+2016,All items,Northeast,Jan,251.739,2016-01-01
+2017,All items,Northeast,Jan,258.073,2017-01-01
+2018,All items,Northeast,Jan,262.188,2018-01-01
+2019,All items,Northeast,Jan,266.109,2019-01-01
+2020,All items,Northeast,Jan,272.316,2020-01-01
+2021,All items,Northeast,Jan,275.427,2021-01-01
+2022,All items,Northeast,Jan,292.644,2022-01-01
+2023,All items,Northeast,Jan,310.323,2023-01-01
+2014,All items,South,Jan,227.673,2014-01-01
+2015,All items,South,Jan,226.855,2015-01-01
+2016,All items,South,Jan,229.469,2016-01-01
+2017,All items,South,Jan,235.492,2017-01-01
+2018,All items,South,Jan,239.772,2018-01-01
+2019,All items,South,Jan,242.547,2019-01-01
+2020,All items,South,Jan,248.005,2020-01-01
+2021,All items,South,Jan,252.067,2021-01-01
+2022,All items,South,Jan,271.634,2022-01-01
+2023,All items,South,Jan,290.438,2023-01-01
+2014,All items,West,Jan,236.707,2014-01-01
+2015,All items,West,Jan,238.318,2015-01-01
+2016,All items,West,Jan,244.6,2016-01-01
+2017,All items,West,Jan,250.814,2017-01-01
+2018,All items,West,Jan,258.638,2018-01-01
+2019,All items,West,Jan,265.624,2019-01-01
+2020,All items,West,Jan,273.34,2020-01-01
+2021,All items,West,Jan,277.238,2021-01-01
+2022,All items,West,Jan,298.705,2022-01-01
+2023,All items,West,Jan,317.477,2023-01-01
+2014,All items,US,Feb,234.781,2014-02-01
+2015,All items,US,Feb,234.722,2015-02-01
+2016,All items,US,Feb,237.111,2016-02-01
+2017,All items,US,Feb,243.603,2017-02-01
+2018,All items,US,Feb,248.991,2018-02-01
+2019,All items,US,Feb,252.776,2019-02-01
+2020,All items,US,Feb,258.678,2020-02-01
+2021,All items,US,Feb,263.014,2021-02-01
+2022,All items,US,Feb,283.716,2022-02-01
+2023,All items,US,Feb,300.84,2023-02-01
+2014,Transportation,US,Feb,214.673,2014-02-01
+2015,Transportation,US,Feb,193.944,2015-02-01
+2016,Transportation,US,Feb,187.345,2016-02-01
+2017,Transportation,US,Feb,199.147,2017-02-01
+2018,Transportation,US,Feb,207.359,2018-02-01
+2019,Transportation,US,Feb,204.236,2019-02-01
+2020,Transportation,US,Feb,207.772,2020-02-01
+2021,Transportation,US,Feb,209.054,2021-02-01
+2022,Transportation,US,Feb,253.15,2022-02-01
+2023,Transportation,US,Feb,259.712,2023-02-01
+2014,All items less food and energy,US,Feb,236.075,2014-02-01
+2015,All items less food and energy,US,Feb,240.083,2015-02-01
+2016,All items less food and energy,US,Feb,245.68,2016-02-01
+2017,All items less food and energy,US,Feb,251.143,2017-02-01
+2018,All items less food and energy,US,Feb,255.783,2018-02-01
+2019,All items less food and energy,US,Feb,261.114,2019-02-01
+2020,All items less food and energy,US,Feb,267.268,2020-02-01
+2021,All items less food and energy,US,Feb,270.696,2021-02-01
+2022,All items less food and energy,US,Feb,288.059,2022-02-01
+2023,All items less food and energy,US,Feb,304.011,2023-02-01
+2014,Housing,US,Feb,230.905,2014-02-01
+2015,Housing,US,Feb,236.016,2015-02-01
+2016,Housing,US,Feb,241.015,2016-02-01
+2017,Housing,US,Feb,248.693,2017-02-01
+2018,Housing,US,Feb,255.713,2018-02-01
+2019,Housing,US,Feb,263.057,2019-02-01
+2020,Housing,US,Feb,270.281,2020-02-01
+2021,Housing,US,Feb,275.137,2021-02-01
+2022,Housing,US,Feb,291.504,2022-02-01
+2023,Housing,US,Feb,315.431,2023-02-01
+2014,Energy,US,Feb,242.041,2014-02-01
+2015,Energy,US,Feb,196.597,2015-02-01
+2016,Energy,US,Feb,172.061,2016-02-01
+2017,Energy,US,Feb,198.195,2017-02-01
+2018,Energy,US,Feb,213.519,2018-02-01
+2019,Energy,US,Feb,202.74,2019-02-01
+2020,Energy,US,Feb,208.354,2020-02-01
+2021,Energy,US,Feb,213.277,2021-02-01
+2022,Energy,US,Feb,267.771,2022-02-01
+2023,Energy,US,Feb,281.673,2023-02-01
+2014,Food and beverages,US,Feb,239.476,2014-02-01
+2015,Food and beverages,US,Feb,246.269,2015-02-01
+2016,Food and beverages,US,Feb,248.459,2016-02-01
+2017,Food and beverages,US,Feb,248.595,2017-02-01
+2018,Food and beverages,US,Feb,252.076,2018-02-01
+2019,Food and beverages,US,Feb,256.997,2019-02-01
+2020,Food and beverages,US,Feb,261.487,2020-02-01
+2021,Food and beverages,US,Feb,270.672,2021-02-01
+2022,Food and beverages,US,Feb,291.244,2022-02-01
+2023,Food and beverages,US,Feb,318.05,2023-02-01
+2014,Medical care,US,Feb,432.769,2014-02-01
+2015,Medical care,US,Feb,442.783,2015-02-01
+2016,Medical care,US,Feb,458.295,2016-02-01
+2017,Medical care,US,Feb,474.546,2017-02-01
+2018,Medical care,US,Feb,482.897,2018-02-01
+2019,Medical care,US,Feb,491.227,2019-02-01
+2020,Medical care,US,Feb,513.923,2020-02-01
+2021,Medical care,US,Feb,524.207,2021-02-01
+2022,Medical care,US,Feb,536.932,2022-02-01
+2023,Medical care,US,Feb,549.487,2023-02-01
+2014,Education,US,Feb,228.835,2014-02-01
+2015,Education,US,Feb,236.814,2015-02-01
+2016,Education,US,Feb,244.864,2016-02-01
+2017,Education,US,Feb,251.356,2017-02-01
+2018,Education,US,Feb,256.291,2018-02-01
+2019,Education,US,Feb,263.62,2019-02-01
+2020,Education,US,Feb,269.36,2020-02-01
+2021,Education,US,Feb,272.539,2021-02-01
+2022,Education,US,Feb,278.38,2022-02-01
+2023,Education,US,Feb,287.651,2023-02-01
+2014,All items,Midwest,Feb,223.493,2014-02-01
+2015,All items,Midwest,Feb,222.301,2015-02-01
+2016,All items,Midwest,Feb,223.196,2016-02-01
+2017,All items,Midwest,Feb,228.633,2017-02-01
+2018,All items,Midwest,Feb,232.512,2018-02-01
+2019,All items,Midwest,Feb,235.444,2019-02-01
+2020,All items,Midwest,Feb,240.421,2020-02-01
+2021,All items,Midwest,Feb,244.477,2021-02-01
+2022,All items,Midwest,Feb,263.988,2022-02-01
+2023,All items,Midwest,Feb,278.672,2023-02-01
+2014,All items,Northeast,Feb,251.233,2014-02-01
+2015,All items,Northeast,Feb,250.619,2015-02-01
+2016,All items,Northeast,Feb,252.25,2016-02-01
+2017,All items,Northeast,Feb,258.768,2017-02-01
+2018,All items,Northeast,Feb,263.26,2018-02-01
+2019,All items,Northeast,Feb,266.706,2019-02-01
+2020,All items,Northeast,Feb,273.08,2020-02-01
+2021,All items,Northeast,Feb,276.473,2021-02-01
+2022,All items,Northeast,Feb,294.605,2022-02-01
+2023,All items,Northeast,Feb,311.986,2023-02-01
+2014,All items,South,Feb,228.664,2014-02-01
+2015,All items,South,Feb,227.944,2015-02-01
+2016,All items,South,Feb,229.646,2016-02-01
+2017,All items,South,Feb,236.052,2017-02-01
+2018,All items,South,Feb,241.123,2018-02-01
+2019,All items,South,Feb,243.856,2019-02-01
+2020,All items,South,Feb,248.412,2020-02-01
+2021,All items,South,Feb,253.386,2021-02-01
+2022,All items,South,Feb,274.688,2022-02-01
+2023,All items,South,Feb,292.285,2023-02-01
+2014,All items,West,Feb,237.614,2014-02-01
+2015,All items,West,Feb,239.748,2015-02-01
+2016,All items,West,Feb,244.821,2016-02-01
+2017,All items,West,Feb,252.252,2017-02-01
+2018,All items,West,Feb,259.986,2018-02-01
+2019,All items,West,Feb,266.215,2019-02-01
+2020,All items,West,Feb,274.412,2020-02-01
+2021,All items,West,Feb,278.702,2021-02-01
+2022,All items,West,Feb,301.158,2022-02-01
+2023,All items,West,Feb,319.13,2023-02-01
+2014,All items,US,Mar,236.293,2014-03-01
+2015,All items,US,Mar,236.119,2015-03-01
+2016,All items,US,Mar,238.132,2016-03-01
+2017,All items,US,Mar,243.801,2017-03-01
+2018,All items,US,Mar,249.554,2018-03-01
+2019,All items,US,Mar,254.202,2019-03-01
+2020,All items,US,Mar,258.115,2020-03-01
+2021,All items,US,Mar,264.877,2021-03-01
+2022,All items,US,Mar,287.504,2022-03-01
+2023,All items,US,Mar,301.836,2023-03-01
+2014,Transportation,US,Mar,218.435,2014-03-01
+2015,Transportation,US,Mar,199.363,2015-03-01
+2016,Transportation,US,Mar,191.257,2016-03-01
+2017,Transportation,US,Mar,200.091,2017-03-01
+2018,Transportation,US,Mar,207.845,2018-03-01
+2019,Transportation,US,Mar,208.836,2019-03-01
+2020,Transportation,US,Mar,203.854,2020-03-01
+2021,Transportation,US,Mar,215.761,2021-03-01
+2022,Transportation,US,Mar,264.525,2022-03-01
+2023,Transportation,US,Mar,261.969,2023-03-01
+2014,All items less food and energy,US,Mar,236.913,2014-03-01
+2015,All items less food and energy,US,Mar,241.067,2015-03-01
+2016,All items less food and energy,US,Mar,246.358,2016-03-01
+2017,All items less food and energy,US,Mar,251.29,2017-03-01
+2018,All items less food and energy,US,Mar,256.61,2018-03-01
+2019,All items less food and energy,US,Mar,261.836,2019-03-01
+2020,All items less food and energy,US,Mar,267.312,2020-03-01
+2021,All items less food and energy,US,Mar,271.713,2021-03-01
+2022,All items less food and energy,US,Mar,289.305,2022-03-01
+2023,All items less food and energy,US,Mar,305.476,2023-03-01
+2014,Housing,US,Mar,231.968,2014-03-01
+2015,Housing,US,Mar,236.435,2015-03-01
+2016,Housing,US,Mar,241.485,2016-03-01
+2017,Housing,US,Mar,248.978,2017-03-01
+2018,Housing,US,Mar,256.388,2018-03-01
+2019,Housing,US,Mar,263.886,2019-03-01
+2020,Housing,US,Mar,270.273,2020-03-01
+2021,Housing,US,Mar,276.028,2021-03-01
+2022,Housing,US,Mar,293.577,2022-03-01
+2023,Housing,US,Mar,316.514,2023-03-01
+2014,Energy,US,Mar,250.543,2014-03-01
+2015,Energy,US,Mar,204.731,2015-03-01
+2016,Energy,US,Mar,179.017,2016-03-01
+2017,Energy,US,Mar,198.597,2017-03-01
+2018,Energy,US,Mar,212.554,2018-03-01
+2019,Energy,US,Mar,211.724,2019-03-01
+2020,Energy,US,Mar,199.573,2020-03-01
+2021,Energy,US,Mar,225.861,2021-03-01
+2022,Energy,US,Mar,298.246,2022-03-01
+2023,Energy,US,Mar,279.084,2023-03-01
+2014,Food and beverages,US,Mar,240.226,2014-03-01
+2015,Food and beverages,US,Mar,245.689,2015-03-01
+2016,Food and beverages,US,Mar,247.677,2016-03-01
+2017,Food and beverages,US,Mar,248.967,2017-03-01
+2018,Food and beverages,US,Mar,252.182,2018-03-01
+2019,Food and beverages,US,Mar,257.43,2019-03-01
+2020,Food and beverages,US,Mar,262.32,2020-03-01
+2021,Food and beverages,US,Mar,271.135,2021-03-01
+2022,Food and beverages,US,Mar,294.064,2022-03-01
+2023,Food and beverages,US,Mar,318.338,2023-03-01
+2014,Medical care,US,Mar,433.369,2014-03-01
+2015,Medical care,US,Mar,444.02,2015-03-01
+2016,Medical care,US,Mar,458.62,2016-03-01
+2017,Medical care,US,Mar,474.561,2017-03-01
+2018,Medical care,US,Mar,483.984,2018-03-01
+2019,Medical care,US,Mar,492.306,2019-03-01
+2020,Medical care,US,Mar,515.605,2020-03-01
+2021,Medical care,US,Mar,524.734,2021-03-01
+2022,Medical care,US,Mar,539.739,2022-03-01
+2023,Medical care,US,Mar,547.805,2023-03-01
+2014,Education,US,Mar,229.061,2014-03-01
+2015,Education,US,Mar,237.447,2015-03-01
+2016,Education,US,Mar,244.876,2016-03-01
+2017,Education,US,Mar,251.113,2017-03-01
+2018,Education,US,Mar,255.609,2018-03-01
+2019,Education,US,Mar,263.905,2019-03-01
+2020,Education,US,Mar,269.45,2020-03-01
+2021,Education,US,Mar,271.559,2021-03-01
+2022,Education,US,Mar,278.388,2022-03-01
+2023,Education,US,Mar,288.26,2023-03-01
+2014,All items,Midwest,Mar,225.485,2014-03-01
+2015,All items,Midwest,Mar,223.55,2015-03-01
+2016,All items,Midwest,Mar,224.621,2016-03-01
+2017,All items,Midwest,Mar,228.824,2017-03-01
+2018,All items,Midwest,Mar,232.931,2018-03-01
+2019,All items,Midwest,Mar,236.793,2019-03-01
+2020,All items,Midwest,Mar,239.163,2020-03-01
+2021,All items,Midwest,Mar,246.246,2021-03-01
+2022,All items,Midwest,Mar,267.312,2022-03-01
+2023,All items,Midwest,Mar,280.33,2023-03-01
+2014,All items,Northeast,Mar,252.413,2014-03-01
+2015,All items,Northeast,Mar,251.451,2015-03-01
+2016,All items,Northeast,Mar,252.854,2016-03-01
+2017,All items,Northeast,Mar,258.51,2017-03-01
+2018,All items,Northeast,Mar,263.556,2018-03-01
+2019,All items,Northeast,Mar,268.025,2019-03-01
+2020,All items,Northeast,Mar,272.531,2020-03-01
+2021,All items,Northeast,Mar,278.197,2021-03-01
+2022,All items,Northeast,Mar,298.403,2022-03-01
+2023,All items,Northeast,Mar,311.243,2023-03-01
+2014,All items,South,Mar,230.095,2014-03-01
+2015,All items,South,Mar,229.337,2015-03-01
+2016,All items,South,Mar,230.977,2016-03-01
+2017,All items,South,Mar,236.154,2017-03-01
+2018,All items,South,Mar,241.595,2018-03-01
+2019,All items,South,Mar,245.554,2019-03-01
+2020,All items,South,Mar,248.136,2020-03-01
+2021,All items,South,Mar,255.319,2021-03-01
+2022,All items,South,Mar,278.598,2022-03-01
+2023,All items,South,Mar,293.358,2023-03-01
+2014,All items,West,Mar,239.092,2014-03-01
+2015,All items,West,Mar,241.69,2015-03-01
+2016,All items,West,Mar,245.404,2016-03-01
+2017,All items,West,Mar,252.949,2017-03-01
+2018,All items,West,Mar,260.994,2018-03-01
+2019,All items,West,Mar,267.37,2019-03-01
+2020,All items,West,Mar,273.995,2020-03-01
+2021,All items,West,Mar,280.625,2021-03-01
+2022,All items,West,Mar,305.082,2022-03-01
+2023,All items,West,Mar,320.715,2023-03-01
+2014,All items,US,Apr,237.072,2014-04-01
+2015,All items,US,Apr,236.599,2015-04-01
+2016,All items,US,Apr,239.261,2016-04-01
+2017,All items,US,Apr,244.524,2017-04-01
+2018,All items,US,Apr,250.546,2018-04-01
+2019,All items,US,Apr,255.548,2019-04-01
+2020,All items,US,Apr,256.389,2020-04-01
+2021,All items,US,Apr,267.054,2021-04-01
+2022,All items,US,Apr,289.109,2022-04-01
+2023,All items,US,Apr,303.363,2023-04-01
+2014,Transportation,US,Apr,221.972,2014-04-01
+2015,Transportation,US,Apr,200.245,2015-04-01
+2016,Transportation,US,Apr,195.491,2016-04-01
+2017,Transportation,US,Apr,202.389,2017-04-01
+2018,Transportation,US,Apr,210.734,2018-04-01
+2019,Transportation,US,Apr,214.142,2019-04-01
+2020,Transportation,US,Apr,193.732,2020-04-01
+2021,Transportation,US,Apr,222.547,2021-04-01
+2022,Transportation,US,Apr,266.892,2022-04-01
+2023,Transportation,US,Apr,267.402,2023-04-01
+2014,All items less food and energy,US,Apr,237.509,2014-04-01
+2015,All items less food and energy,US,Apr,241.802,2015-04-01
+2016,All items less food and energy,US,Apr,246.992,2016-04-01
+2017,All items less food and energy,US,Apr,251.642,2017-04-01
+2018,All items less food and energy,US,Apr,257.025,2018-04-01
+2019,All items less food and energy,US,Apr,262.332,2019-04-01
+2020,All items less food and energy,US,Apr,266.089,2020-04-01
+2021,All items less food and energy,US,Apr,273.968,2021-04-01
+2022,All items less food and energy,US,Apr,290.846,2022-04-01
+2023,All items less food and energy,US,Apr,306.899,2023-04-01
+2014,Housing,US,Apr,231.689,2014-04-01
+2015,Housing,US,Apr,236.777,2015-04-01
+2016,Housing,US,Apr,241.79,2016-04-01
+2017,Housing,US,Apr,249.514,2017-04-01
+2018,Housing,US,Apr,256.969,2018-04-01
+2019,Housing,US,Apr,264.452,2019-04-01
+2020,Housing,US,Apr,270.184,2020-04-01
+2021,Housing,US,Apr,277.258,2021-04-01
+2022,Housing,US,Apr,295.259,2022-04-01
+2023,Housing,US,Apr,317.278,2023-04-01
+2014,Energy,US,Apr,252.717,2014-04-01
+2015,Energy,US,Apr,203.715,2015-04-01
+2016,Energy,US,Apr,185.652,2016-04-01
+2017,Energy,US,Apr,202.869,2017-04-01
+2018,Energy,US,Apr,218.83,2018-04-01
+2019,Energy,US,Apr,222.499,2019-04-01
+2020,Energy,US,Apr,183.081,2020-04-01
+2021,Energy,US,Apr,229.116,2021-04-01
+2022,Energy,US,Apr,298.469,2022-04-01
+2023,Energy,US,Apr,283.352,2023-04-01
+2014,Food and beverages,US,Apr,241.103,2014-04-01
+2015,Food and beverages,US,Apr,245.746,2015-04-01
+2016,Food and beverages,US,Apr,248.095,2016-04-01
+2017,Food and beverages,US,Apr,249.538,2017-04-01
+2018,Food and beverages,US,Apr,252.999,2018-04-01
+2019,Food and beverages,US,Apr,257.393,2019-04-01
+2020,Food and beverages,US,Apr,266.137,2020-04-01
+2021,Food and beverages,US,Apr,272.367,2021-04-01
+2022,Food and beverages,US,Apr,296.915,2022-04-01
+2023,Food and beverages,US,Apr,319.085,2023-04-01
+2014,Medical care,US,Apr,434.054,2014-04-01
+2015,Medical care,US,Apr,446.663,2015-04-01
+2016,Medical care,US,Apr,459.994,2016-04-01
+2017,Medical care,US,Apr,473.582,2017-04-01
+2018,Medical care,US,Apr,484.034,2018-04-01
+2019,Medical care,US,Apr,493.331,2019-04-01
+2020,Medical care,US,Apr,517.053,2020-04-01
+2021,Medical care,US,Apr,524.585,2021-04-01
+2022,Medical care,US,Apr,541.515,2022-04-01
+2023,Medical care,US,Apr,547.219,2023-04-01
+2014,Education,US,Apr,229.237,2014-04-01
+2015,Education,US,Apr,238.003,2015-04-01
+2016,Education,US,Apr,245.206,2016-04-01
+2017,Education,US,Apr,251.001,2017-04-01
+2018,Education,US,Apr,255.564,2018-04-01
+2019,Education,US,Apr,263.944,2019-04-01
+2020,Education,US,Apr,269.614,2020-04-01
+2021,Education,US,Apr,271.829,2021-04-01
+2022,Education,US,Apr,278.647,2022-04-01
+2023,Education,US,Apr,288.606,2023-04-01
+2014,All items,Midwest,Apr,226.214,2014-04-01
+2015,All items,Midwest,Apr,223.797,2015-04-01
+2016,All items,Midwest,Apr,225.609,2016-04-01
+2017,All items,Midwest,Apr,229.682,2017-04-01
+2018,All items,Midwest,Apr,233.913,2018-04-01
+2019,All items,Midwest,Apr,237.51,2019-04-01
+2020,All items,Midwest,Apr,236.474,2020-04-01
+2021,All items,Midwest,Apr,248.169,2021-04-01
+2022,All items,Midwest,Apr,268.639,2022-04-01
+2023,All items,Midwest,Apr,281.927,2023-04-01
+2014,All items,Northeast,Apr,252.506,2014-04-01
+2015,All items,Northeast,Apr,251.76,2015-04-01
+2016,All items,Northeast,Apr,254.27,2016-04-01
+2017,All items,Northeast,Apr,259.165,2017-04-01
+2018,All items,Northeast,Apr,264.669,2018-04-01
+2019,All items,Northeast,Apr,269.07,2019-04-01
+2020,All items,Northeast,Apr,271.325,2020-04-01
+2021,All items,Northeast,Apr,280.234,2021-04-01
+2022,All items,Northeast,Apr,300.325,2022-04-01
+2023,All items,Northeast,Apr,311.848,2023-04-01
+2014,All items,South,Apr,231.346,2014-04-01
+2015,All items,South,Apr,229.957,2015-04-01
+2016,All items,South,Apr,231.975,2016-04-01
+2017,All items,South,Apr,236.728,2017-04-01
+2018,All items,South,Apr,242.486,2018-04-01
+2019,All items,South,Apr,246.847,2019-04-01
+2020,All items,South,Apr,246.254,2020-04-01
+2021,All items,South,Apr,257.207,2021-04-01
+2022,All items,South,Apr,279.879,2022-04-01
+2023,All items,South,Apr,295.315,2023-04-01
+2014,All items,West,Apr,239.808,2014-04-01
+2015,All items,West,Apr,242.302,2015-04-01
+2016,All items,West,Apr,246.589,2016-04-01
+2017,All items,West,Apr,253.806,2017-04-01
+2018,All items,West,Apr,262.037,2018-04-01
+2019,All items,West,Apr,269.522,2019-04-01
+2020,All items,West,Apr,272.913,2020-04-01
+2021,All items,West,Apr,283.507,2021-04-01
+2022,All items,West,Apr,307.145,2022-04-01
+2023,All items,West,Apr,322.187,2023-04-01
+2014,All items,US,May,237.9,2014-05-01
+2015,All items,US,May,237.805,2015-05-01
+2016,All items,US,May,240.229,2016-05-01
+2017,All items,US,May,244.733,2017-05-01
+2018,All items,US,May,251.588,2018-05-01
+2019,All items,US,May,256.092,2019-05-01
+2020,All items,US,May,256.394,2020-05-01
+2021,All items,US,May,269.195,2021-05-01
+2022,All items,US,May,292.296,2022-05-01
+2023,All items,US,May,304.127,2023-05-01
+2014,Transportation,US,May,223.392,2014-05-01
+2015,Transportation,US,May,206.386,2015-05-01
+2016,Transportation,US,May,198.613,2016-05-01
+2017,Transportation,US,May,202.212,2017-05-01
+2018,Transportation,US,May,214.125,2018-05-01
+2019,Transportation,US,May,215.391,2019-05-01
+2020,Transportation,US,May,191.419,2020-05-01
+2021,Transportation,US,May,229.689,2021-05-01
+2022,Transportation,US,May,274.282,2022-05-01
+2023,Transportation,US,May,268.862,2023-05-01
+2014,All items less food and energy,US,May,238.029,2014-05-01
+2015,All items less food and energy,US,May,242.119,2015-05-01
+2016,All items less food and energy,US,May,247.544,2016-05-01
+2017,All items less food and energy,US,May,251.835,2017-05-01
+2018,All items less food and energy,US,May,257.469,2018-05-01
+2019,All items less food and energy,US,May,262.59,2019-05-01
+2020,All items less food and energy,US,May,265.799,2020-05-01
+2021,All items less food and energy,US,May,275.893,2021-05-01
+2022,All items less food and energy,US,May,292.506,2022-05-01
+2023,All items less food and energy,US,May,308.096,2023-05-01
+2014,Housing,US,May,232.744,2014-05-01
+2015,Housing,US,May,237.175,2015-05-01
+2016,Housing,US,May,242.811,2016-05-01
+2017,Housing,US,May,250.376,2017-05-01
+2018,Housing,US,May,257.907,2018-05-01
+2019,Housing,US,May,265.137,2019-05-01
+2020,Housing,US,May,270.823,2020-05-01
+2021,Housing,US,May,278.648,2021-05-01
+2022,Housing,US,May,297.868,2022-05-01
+2023,Housing,US,May,318.205,2023-05-01
+2014,Energy,US,May,255.982,2014-05-01
+2015,Energy,US,May,214.33,2015-05-01
+2016,Energy,US,May,192.673,2016-05-01
+2017,Energy,US,May,203.132,2017-05-01
+2018,Energy,US,May,226.81,2018-05-01
+2019,Energy,US,May,225.773,2019-05-01
+2020,Energy,US,May,183.076,2020-05-01
+2021,Energy,US,May,235.339,2021-05-01
+2022,Energy,US,May,316.761,2022-05-01
+2023,Energy,US,May,279.816,2023-05-01
+2014,Food and beverages,US,May,242.065,2014-05-01
+2015,Food and beverages,US,May,245.846,2015-05-01
+2016,Food and beverages,US,May,247.58,2016-05-01
+2017,Food and beverages,US,May,249.749,2017-05-01
+2018,Food and beverages,US,May,252.848,2018-05-01
+2019,Food and beverages,US,May,257.791,2019-05-01
+2020,Food and beverages,US,May,267.792,2020-05-01
+2021,Food and beverages,US,May,273.441,2021-05-01
+2022,Food and beverages,US,May,300.081,2022-05-01
+2023,Food and beverages,US,May,319.811,2023-05-01
+2014,Medical care,US,May,434.874,2014-05-01
+2015,Medical care,US,May,447.213,2015-05-01
+2016,Medical care,US,May,461.23,2016-05-01
+2017,Medical care,US,May,473.512,2017-05-01
+2018,Medical care,US,May,484.853,2018-05-01
+2019,Medical care,US,May,494.928,2019-05-01
+2020,Medical care,US,May,519.194,2020-05-01
+2021,Medical care,US,May,523.918,2021-05-01
+2022,Medical care,US,May,543.488,2022-05-01
+2023,Medical care,US,May,547.42,2023-05-01
+2014,Education,US,May,229.576,2014-05-01
+2015,Education,US,May,238.219,2015-05-01
+2016,Education,US,May,245.419,2016-05-01
+2017,Education,US,May,250.959,2017-05-01
+2018,Education,US,May,256.09,2018-05-01
+2019,Education,US,May,264.199,2019-05-01
+2020,Education,US,May,269.725,2020-05-01
+2021,Education,US,May,272.544,2021-05-01
+2022,Education,US,May,279.356,2022-05-01
+2023,Education,US,May,288.843,2023-05-01
+2014,All items,Midwest,May,226.565,2014-05-01
+2015,All items,Midwest,May,224.732,2015-05-01
+2016,All items,Midwest,May,226.476,2016-05-01
+2017,All items,Midwest,May,229.705,2017-05-01
+2018,All items,Midwest,May,235.065,2018-05-01
+2019,All items,Midwest,May,238.219,2019-05-01
+2020,All items,Midwest,May,237.291,2020-05-01
+2021,All items,Midwest,May,250.582,2021-05-01
+2022,All items,Midwest,May,272.673,2022-05-01
+2023,All items,Midwest,May,282.656,2023-05-01
+2014,All items,Northeast,May,253.598,2014-05-01
+2015,All items,Northeast,May,252.77,2015-05-01
+2016,All items,Northeast,May,255.023,2016-05-01
+2017,All items,Northeast,May,259.386,2017-05-01
+2018,All items,Northeast,May,265.84,2018-05-01
+2019,All items,Northeast,May,269.744,2019-05-01
+2020,All items,Northeast,May,271.345,2020-05-01
+2021,All items,Northeast,May,281.858,2021-05-01
+2022,All items,Northeast,May,302.939,2022-05-01
+2023,All items,Northeast,May,312.241,2023-05-01
+2014,All items,South,May,231.762,2014-05-01
+2015,All items,South,May,230.886,2015-05-01
+2016,All items,South,May,232.906,2016-05-01
+2017,All items,South,May,236.774,2017-05-01
+2018,All items,South,May,243.279,2018-05-01
+2019,All items,South,May,246.667,2019-05-01
+2020,All items,South,May,245.696,2020-05-01
+2021,All items,South,May,259.343,2021-05-01
+2022,All items,South,May,283.307,2022-05-01
+2023,All items,South,May,295.889,2023-05-01
+2014,All items,West,May,241.35,2014-05-01
+2015,All items,West,May,244.227,2015-05-01
+2016,All items,West,May,247.855,2016-05-01
+2017,All items,West,May,254.38,2017-05-01
+2018,All items,West,May,263.24,2018-05-01
+2019,All items,West,May,270.88,2019-05-01
+2020,All items,West,May,273.062,2020-05-01
+2021,All items,West,May,285.793,2021-05-01
+2022,All items,West,May,309.645,2022-05-01
+2023,All items,West,May,323.525,2023-05-01
+2014,All items,US,Jun,238.343,2014-06-01
+2015,All items,US,Jun,238.638,2015-06-01
+2016,All items,US,Jun,241.018,2016-06-01
+2017,All items,US,Jun,244.955,2017-06-01
+2018,All items,US,Jun,251.989,2018-06-01
+2019,All items,US,Jun,256.143,2019-06-01
+2020,All items,US,Jun,257.797,2020-06-01
+2021,All items,US,Jun,271.696,2021-06-01
+2022,All items,US,Jun,296.311,2022-06-01
+2023,All items,US,Jun,305.109,2023-06-01
+2014,Transportation,US,Jun,223.543,2014-06-01
+2015,Transportation,US,Jun,208.012,2015-06-01
+2016,Transportation,US,Jun,200.262,2016-06-01
+2017,Transportation,US,Jun,201.263,2017-06-01
+2018,Transportation,US,Jun,214.679,2018-06-01
+2019,Transportation,US,Jun,213.073,2019-06-01
+2020,Transportation,US,Jun,195.609,2020-06-01
+2021,Transportation,US,Jun,237.701,2021-06-01
+2022,Transportation,US,Jun,284.644,2022-06-01
+2023,Transportation,US,Jun,270.146,2023-06-01
+2014,All items less food and energy,US,Jun,238.157,2014-06-01
+2015,All items less food and energy,US,Jun,242.354,2015-06-01
+2016,All items less food and energy,US,Jun,247.794,2016-06-01
+2017,All items less food and energy,US,Jun,252.014,2017-06-01
+2018,All items less food and energy,US,Jun,257.697,2018-06-01
+2019,All items less food and energy,US,Jun,263.177,2019-06-01
+2020,All items less food and energy,US,Jun,266.302,2020-06-01
+2021,All items less food and energy,US,Jun,278.218,2021-06-01
+2022,All items less food and energy,US,Jun,294.68,2022-06-01
+2023,All items less food and energy,US,Jun,308.91,2023-06-01
+2014,Housing,US,Jun,233.894,2014-06-01
+2015,Housing,US,Jun,238.568,2015-06-01
+2016,Housing,US,Jun,244.28,2016-06-01
+2017,Housing,US,Jun,251.629,2017-06-01
+2018,Housing,US,Jun,258.71,2018-06-01
+2019,Housing,US,Jun,266.461,2019-06-01
+2020,Housing,US,Jun,271.831,2020-06-01
+2021,Housing,US,Jun,280.366,2021-06-01
+2022,Housing,US,Jun,300.927,2022-06-01
+2023,Housing,US,Jun,320.002,2023-06-01
+2014,Energy,US,Jun,259.858,2014-06-01
+2015,Energy,US,Jun,220.861,2015-06-01
+2016,Energy,US,Jun,200.035,2016-06-01
+2017,Energy,US,Jun,204.646,2017-06-01
+2018,Energy,US,Jun,229.137,2018-06-01
+2019,Energy,US,Jun,221.373,2019-06-01
+2020,Energy,US,Jun,193.379,2020-06-01
+2021,Energy,US,Jun,240.72,2021-06-01
+2022,Energy,US,Jun,340.917,2022-06-01
+2023,Energy,US,Jun,283.854,2023-06-01
+2014,Food and beverages,US,Jun,242.027,2014-06-01
+2015,Food and beverages,US,Jun,246.245,2015-06-01
+2016,Food and beverages,US,Jun,247.207,2016-06-01
+2017,Food and beverages,US,Jun,249.398,2017-06-01
+2018,Food and beverages,US,Jun,253.022,2018-06-01
+2019,Food and beverages,US,Jun,257.778,2019-06-01
+2020,Food and beverages,US,Jun,269.051,2020-06-01
+2021,Food and beverages,US,Jun,275.38,2021-06-01
+2022,Food and beverages,US,Jun,302.967,2022-06-01
+2023,Food and beverages,US,Jun,320.12,2023-06-01
+2014,Medical care,US,Jun,435.352,2014-06-01
+2015,Medical care,US,Jun,446.271,2015-06-01
+2016,Medical care,US,Jun,462.075,2016-06-01
+2017,Medical care,US,Jun,474.36,2017-06-01
+2018,Medical care,US,Jun,486.019,2018-06-01
+2019,Medical care,US,Jun,495.563,2019-06-01
+2020,Medical care,US,Jun,520.734,2020-06-01
+2021,Medical care,US,Jun,522.989,2021-06-01
+2022,Medical care,US,Jun,546.717,2022-06-01
+2023,Medical care,US,Jun,547.432,2023-06-01
+2014,Education,US,Jun,229.983,2014-06-01
+2015,Education,US,Jun,238.669,2015-06-01
+2016,Education,US,Jun,245.911,2016-06-01
+2017,Education,US,Jun,251.658,2017-06-01
+2018,Education,US,Jun,256.679,2018-06-01
+2019,Education,US,Jun,264.612,2019-06-01
+2020,Education,US,Jun,269.993,2020-06-01
+2021,Education,US,Jun,273.169,2021-06-01
+2022,Education,US,Jun,280.562,2022-06-01
+2023,Education,US,Jun,289.382,2023-06-01
+2014,All items,Midwest,Jun,227.588,2014-06-01
+2015,All items,Midwest,Jun,225.946,2015-06-01
+2016,All items,Midwest,Jun,227.835,2016-06-01
+2017,All items,Midwest,Jun,229.78,2017-06-01
+2018,All items,Midwest,Jun,235.455,2018-06-01
+2019,All items,Midwest,Jun,238.288,2019-06-01
+2020,All items,Midwest,Jun,239.259,2020-06-01
+2021,All items,Midwest,Jun,253.042,2021-06-01
+2022,All items,Midwest,Jun,277.072,2022-06-01
+2023,All items,Midwest,Jun,283.741,2023-06-01
+2014,All items,Northeast,Jun,253.555,2014-06-01
+2015,All items,Northeast,Jun,253.626,2015-06-01
+2016,All items,Northeast,Jun,255.471,2016-06-01
+2017,All items,Northeast,Jun,259.335,2017-06-01
+2018,All items,Northeast,Jun,265.95,2018-06-01
+2019,All items,Northeast,Jun,270.133,2019-06-01
+2020,All items,Northeast,Jun,272.283,2020-06-01
+2021,All items,Northeast,Jun,284.741,2021-06-01
+2022,All items,Northeast,Jun,306.453,2022-06-01
+2023,All items,Northeast,Jun,313.329,2023-06-01
+2014,All items,South,Jun,232.269,2014-06-01
+2015,All items,South,Jun,232.026,2015-06-01
+2016,All items,South,Jun,233.838,2016-06-01
+2017,All items,South,Jun,237.346,2017-06-01
+2018,All items,South,Jun,243.77,2018-06-01
+2019,All items,South,Jun,246.515,2019-06-01
+2020,All items,South,Jun,247.223,2020-06-01
+2021,All items,South,Jun,261.668,2021-06-01
+2022,All items,South,Jun,287.427,2022-06-01
+2023,All items,South,Jun,296.789,2023-06-01
+2014,All items,West,Jun,241.616,2014-06-01
+2015,All items,West,Jun,244.332,2015-06-01
+2016,All items,West,Jun,248.228,2016-06-01
+2017,All items,West,Jun,254.469,2017-06-01
+2018,All items,West,Jun,263.732,2018-06-01
+2019,All items,West,Jun,270.957,2019-06-01
+2020,All items,West,Jun,274.155,2020-06-01
+2021,All items,West,Jun,288.263,2021-06-01
+2022,All items,West,Jun,313.496,2022-06-01
+2023,All items,West,Jun,324.448,2023-06-01
+2014,All items,US,Jul,238.25,2014-07-01
+2015,All items,US,Jul,238.654,2015-07-01
+2016,All items,US,Jul,240.628,2016-07-01
+2017,All items,US,Jul,244.786,2017-07-01
+2018,All items,US,Jul,252.006,2018-07-01
+2019,All items,US,Jul,256.571,2019-07-01
+2020,All items,US,Jul,259.101,2020-07-01
+2021,All items,US,Jul,273.003,2021-07-01
+2022,All items,US,Jul,296.276,2022-07-01
+2023,All items,US,Jul,305.691,2023-07-01
+2014,Transportation,US,Jul,221.867,2014-07-01
+2015,Transportation,US,Jul,207.218,2015-07-01
+2016,Transportation,US,Jul,197.145,2016-07-01
+2017,Transportation,US,Jul,199.466,2017-07-01
+2018,Transportation,US,Jul,214.039,2018-07-01
+2019,Transportation,US,Jul,213.405,2019-07-01
+2020,Transportation,US,Jul,200.766,2020-07-01
+2021,Transportation,US,Jul,239.722,2021-07-01
+2022,Transportation,US,Jul,278.958,2022-07-01
+2023,Transportation,US,Jul,270.602,2023-07-01
+2014,All items less food and energy,US,Jul,238.138,2014-07-01
+2015,All items less food and energy,US,Jul,242.436,2015-07-01
+2016,All items less food and energy,US,Jul,247.744,2016-07-01
+2017,All items less food and energy,US,Jul,251.936,2017-07-01
+2018,All items less food and energy,US,Jul,257.867,2018-07-01
+2019,All items less food and energy,US,Jul,263.566,2019-07-01
+2020,All items less food and energy,US,Jul,267.703,2020-07-01
+2021,All items less food and energy,US,Jul,279.146,2021-07-01
+2022,All items less food and energy,US,Jul,295.646,2022-07-01
+2023,All items less food and energy,US,Jul,309.402,2023-07-01
+2014,Housing,US,Jul,234.475,2014-07-01
+2015,Housing,US,Jul,239.085,2015-07-01
+2016,Housing,US,Jul,244.936,2016-07-01
+2017,Housing,US,Jul,251.87,2017-07-01
+2018,Housing,US,Jul,259.268,2018-07-01
+2019,Housing,US,Jul,267.101,2019-07-01
+2020,Housing,US,Jul,272.445,2020-07-01
+2021,Housing,US,Jul,281.604,2021-07-01
+2022,Housing,US,Jul,302.327,2022-07-01
+2023,Housing,US,Jul,321.087,2023-07-01
+2014,Energy,US,Jul,257.907,2014-07-01
+2015,Energy,US,Jul,219.852,2015-07-01
+2016,Energy,US,Jul,195.94,2016-07-01
+2017,Energy,US,Jul,202.554,2017-07-01
+2018,Energy,US,Jul,227.107,2018-07-01
+2019,Energy,US,Jul,222.492,2019-07-01
+2020,Energy,US,Jul,197.665,2020-07-01
+2021,Energy,US,Jul,244.8,2021-07-01
+2022,Energy,US,Jul,325.407,2022-07-01
+2023,Energy,US,Jul,284.828,2023-07-01
+2014,Food and beverages,US,Jul,242.674,2014-07-01
+2015,Food and beverages,US,Jul,246.558,2015-07-01
+2016,Food and beverages,US,Jul,247.267,2016-07-01
+2017,Food and beverages,US,Jul,249.93,2017-07-01
+2018,Food and beverages,US,Jul,253.476,2018-07-01
+2019,Food and beverages,US,Jul,258.015,2019-07-01
+2020,Food and beverages,US,Jul,268.132,2020-07-01
+2021,Food and beverages,US,Jul,277.187,2021-07-01
+2022,Food and beverages,US,Jul,306.278,2022-07-01
+2023,Food and beverages,US,Jul,321.02,2023-07-01
+2014,Medical care,US,Jul,435.924,2014-07-01
+2015,Medical care,US,Jul,446.773,2015-07-01
+2016,Medical care,US,Jul,464.164,2016-07-01
+2017,Medical care,US,Jul,476.126,2017-07-01
+2018,Medical care,US,Jul,485.193,2018-07-01
+2019,Medical care,US,Jul,497.687,2019-07-01
+2020,Medical care,US,Jul,522.686,2020-07-01
+2021,Medical care,US,Jul,524.219,2021-07-01
+2022,Medical care,US,Jul,549.562,2022-07-01
+2023,Medical care,US,Jul,546.698,2023-07-01
+2014,Education,US,Jul,230.807,2014-07-01
+2015,Education,US,Jul,239.68,2015-07-01
+2016,Education,US,Jul,246.478,2016-07-01
+2017,Education,US,Jul,252.115,2017-07-01
+2018,Education,US,Jul,257.477,2018-07-01
+2019,Education,US,Jul,264.882,2019-07-01
+2020,Education,US,Jul,270.659,2020-07-01
+2021,Education,US,Jul,273.812,2021-07-01
+2022,Education,US,Jul,280.974,2022-07-01
+2023,Education,US,Jul,290.069,2023-07-01
+2014,All items,Midwest,Jul,226.997,2014-07-01
+2015,All items,Midwest,Jul,225.853,2015-07-01
+2016,All items,Midwest,Jul,226.786,2016-07-01
+2017,All items,Midwest,Jul,229.82,2017-07-01
+2018,All items,Midwest,Jul,235.346,2018-07-01
+2019,All items,Midwest,Jul,238.76,2019-07-01
+2020,All items,Midwest,Jul,240.43,2020-07-01
+2021,All items,Midwest,Jul,254.671,2021-07-01
+2022,All items,Midwest,Jul,276.525,2022-07-01
+2023,All items,Midwest,Jul,284.64,2023-07-01
+2014,All items,Northeast,Jul,253.833,2014-07-01
+2015,All items,Northeast,Jul,253.405,2015-07-01
+2016,All items,Northeast,Jul,255.386,2016-07-01
+2017,All items,Northeast,Jul,258.833,2017-07-01
+2018,All items,Northeast,Jul,265.83,2018-07-01
+2019,All items,Northeast,Jul,270.381,2019-07-01
+2020,All items,Northeast,Jul,273.347,2020-07-01
+2021,All items,Northeast,Jul,285.22,2021-07-01
+2022,All items,Northeast,Jul,305.916,2022-07-01
+2023,All items,Northeast,Jul,313.952,2023-07-01
+2014,All items,South,Jul,232.013,2014-07-01
+2015,All items,South,Jul,231.719,2015-07-01
+2016,All items,South,Jul,233.292,2016-07-01
+2017,All items,South,Jul,236.942,2017-07-01
+2018,All items,South,Jul,243.776,2018-07-01
+2019,All items,South,Jul,247.25,2019-07-01
+2020,All items,South,Jul,248.619,2020-07-01
+2021,All items,South,Jul,263.013,2021-07-01
+2022,All items,South,Jul,287.608,2022-07-01
+2023,All items,South,Jul,297.279,2023-07-01
+2014,All items,West,Jul,241.85,2014-07-01
+2015,All items,West,Jul,245.04,2015-07-01
+2016,All items,West,Jul,248.375,2016-07-01
+2017,All items,West,Jul,254.708,2017-07-01
+2018,All items,West,Jul,263.971,2018-07-01
+2019,All items,West,Jul,271.029,2019-07-01
+2020,All items,West,Jul,275.597,2020-07-01
+2021,All items,West,Jul,289.863,2021-07-01
+2022,All items,West,Jul,313.951,2022-07-01
+2023,All items,West,Jul,324.865,2023-07-01
+2014,All items,US,Aug,237.852,2014-08-01
+2015,All items,US,Aug,238.316,2015-08-01
+2016,All items,US,Aug,240.849,2016-08-01
+2017,All items,US,Aug,245.519,2017-08-01
+2018,All items,US,Aug,252.146,2018-08-01
+2019,All items,US,Aug,256.558,2019-08-01
+2020,All items,US,Aug,259.918,2020-08-01
+2021,All items,US,Aug,273.567,2021-08-01
+2022,All items,US,Aug,296.171,2022-08-01
+2023,All items,US,Aug,307.026,2023-08-01
+2014,Transportation,US,Aug,218.279,2014-08-01
+2015,Transportation,US,Aug,203.377,2015-08-01
+2016,Transportation,US,Aug,195.198,2016-08-01
+2017,Transportation,US,Aug,200.652,2017-08-01
+2018,Transportation,US,Aug,213.482,2018-08-01
+2019,Transportation,US,Aug,211.084,2019-08-01
+2020,Transportation,US,Aug,202.386,2020-08-01
+2021,Transportation,US,Aug,238.333,2021-08-01
+2022,Transportation,US,Aug,270.334,2022-08-01
+2023,Transportation,US,Aug,274.22,2023-08-01
+2014,All items less food and energy,US,Aug,238.296,2014-08-01
+2015,All items less food and energy,US,Aug,242.651,2015-08-01
+2016,All items less food and energy,US,Aug,248.278,2016-08-01
+2017,All items less food and energy,US,Aug,252.46,2017-08-01
+2018,All items less food and energy,US,Aug,258.012,2018-08-01
+2019,All items less food and energy,US,Aug,264.169,2019-08-01
+2020,All items less food and energy,US,Aug,268.756,2020-08-01
+2021,All items less food and energy,US,Aug,279.507,2021-08-01
+2022,All items less food and energy,US,Aug,297.178,2022-08-01
+2023,All items less food and energy,US,Aug,310.103,2023-08-01
+2014,Housing,US,Aug,234.571,2014-08-01
+2015,Housing,US,Aug,239.298,2015-08-01
+2016,Housing,US,Aug,245.472,2016-08-01
+2017,Housing,US,Aug,252.615,2017-08-01
+2018,Housing,US,Aug,259.884,2018-08-01
+2019,Housing,US,Aug,267.263,2019-08-01
+2020,Housing,US,Aug,272.866,2020-08-01
+2021,Housing,US,Aug,282.391,2021-08-01
+2022,Housing,US,Aug,304.506,2022-08-01
+2023,Housing,US,Aug,321.894,2023-08-01
+2014,Energy,US,Aug,250.951,2014-08-01
+2015,Energy,US,Aug,213.248,2015-08-01
+2016,Energy,US,Aug,193.524,2016-08-01
+2017,Energy,US,Aug,205.894,2017-08-01
+2018,Energy,US,Aug,226.939,2018-08-01
+2019,Energy,US,Aug,216.978,2019-08-01
+2020,Energy,US,Aug,197.362,2020-08-01
+2021,Energy,US,Aug,246.639,2021-08-01
+2022,Energy,US,Aug,305.372,2022-08-01
+2023,Energy,US,Aug,294.328,2023-08-01
+2014,Food and beverages,US,Aug,243.497,2014-08-01
+2015,Food and beverages,US,Aug,247.196,2015-08-01
+2016,Food and beverages,US,Aug,247.42,2016-08-01
+2017,Food and beverages,US,Aug,250.212,2017-08-01
+2018,Food and beverages,US,Aug,253.779,2018-08-01
+2019,Food and beverages,US,Aug,258.154,2019-08-01
+2020,Food and beverages,US,Aug,268.383,2020-08-01
+2021,Food and beverages,US,Aug,278.201,2021-08-01
+2022,Food and beverages,US,Aug,308.55,2022-08-01
+2023,Food and beverages,US,Aug,321.578,2023-08-01
+2014,Medical care,US,Aug,435.777,2014-08-01
+2015,Medical care,US,Aug,446.536,2015-08-01
+2016,Medical care,US,Aug,468.379,2016-08-01
+2017,Medical care,US,Aug,476.869,2017-08-01
+2018,Medical care,US,Aug,484.172,2018-08-01
+2019,Medical care,US,Aug,500.916,2019-08-01
+2020,Medical care,US,Aug,523.295,2020-08-01
+2021,Medical care,US,Aug,525.247,2021-08-01
+2022,Medical care,US,Aug,553.429,2022-08-01
+2023,Medical care,US,Aug,548.082,2023-08-01
+2014,Education,US,Aug,233.634,2014-08-01
+2015,Education,US,Aug,242.076,2015-08-01
+2016,Education,US,Aug,248.58,2016-08-01
+2017,Education,US,Aug,253.805,2017-08-01
+2018,Education,US,Aug,260.613,2018-08-01
+2019,Education,US,Aug,266.979,2019-08-01
+2020,Education,US,Aug,271.626,2020-08-01
+2021,Education,US,Aug,275.373,2021-08-01
+2022,Education,US,Aug,283.882,2022-08-01
+2023,Education,US,Aug,292.014,2023-08-01
+2014,All items,Midwest,Aug,226.587,2014-08-01
+2015,All items,Midwest,Aug,225.83,2015-08-01
+2016,All items,Midwest,Aug,227.097,2016-08-01
+2017,All items,Midwest,Aug,230.443,2017-08-01
+2018,All items,Midwest,Aug,235.276,2018-08-01
+2019,All items,Midwest,Aug,238.786,2019-08-01
+2020,All items,Midwest,Aug,241.362,2020-08-01
+2021,All items,Midwest,Aug,255.142,2021-08-01
+2022,All items,Midwest,Aug,275.875,2022-08-01
+2023,All items,Midwest,Aug,285.122,2023-08-01
+2014,All items,Northeast,Aug,253.185,2014-08-01
+2015,All items,Northeast,Aug,252.903,2015-08-01
+2016,All items,Northeast,Aug,255.545,2016-08-01
+2017,All items,Northeast,Aug,259.508,2017-08-01
+2018,All items,Northeast,Aug,266.425,2018-08-01
+2019,All items,Northeast,Aug,270.548,2019-08-01
+2020,All items,Northeast,Aug,273.597,2020-08-01
+2021,All items,Northeast,Aug,285.63,2021-08-01
+2022,All items,Northeast,Aug,306.855,2022-08-01
+2023,All items,Northeast,Aug,315.441,2023-08-01
+2014,All items,South,Aug,231.611,2014-08-01
+2015,All items,South,Aug,231.26,2015-08-01
+2016,All items,South,Aug,233.561,2016-08-01
+2017,All items,South,Aug,237.892,2017-08-01
+2018,All items,South,Aug,243.605,2018-08-01
+2019,All items,South,Aug,246.953,2019-08-01
+2020,All items,South,Aug,249.639,2020-08-01
+2021,All items,South,Aug,263.728,2021-08-01
+2022,All items,South,Aug,287.168,2022-08-01
+2023,All items,South,Aug,298.975,2023-08-01
+2014,All items,West,Aug,241.66,2014-08-01
+2015,All items,West,Aug,244.737,2015-08-01
+2016,All items,West,Aug,248.498,2016-08-01
+2017,All items,West,Aug,255.282,2017-08-01
+2018,All items,West,Aug,264.395,2018-08-01
+2019,All items,West,Aug,271.264,2019-08-01
+2020,All items,West,Aug,276.443,2020-08-01
+2021,All items,West,Aug,290.393,2021-08-01
+2022,All items,West,Aug,314.013,2022-08-01
+2023,All items,West,Aug,326.234,2023-08-01
+2014,All items,US,Sep,238.031,2014-09-01
+2015,All items,US,Sep,237.945,2015-09-01
+2016,All items,US,Sep,241.428,2016-09-01
+2017,All items,US,Sep,246.819,2017-09-01
+2018,All items,US,Sep,252.439,2018-09-01
+2019,All items,US,Sep,256.759,2019-09-01
+2020,All items,US,Sep,260.28,2020-09-01
+2021,All items,US,Sep,274.31,2021-09-01
+2022,All items,US,Sep,296.808,2022-09-01
+2023,All items,US,Sep,307.789,2023-09-01
+2014,Transportation,US,Sep,216.383,2014-09-01
+2015,Transportation,US,Sep,197.593,2015-09-01
+2016,Transportation,US,Sep,195.402,2016-09-01
+2017,Transportation,US,Sep,204.775,2017-09-01
+2018,Transportation,US,Sep,212.414,2018-09-01
+2019,Transportation,US,Sep,209.35,2019-09-01
+2020,Transportation,US,Sep,202.715,2020-09-01
+2021,Transportation,US,Sep,236.373,2021-09-01
+2022,Transportation,US,Sep,266.109,2022-09-01
+2023,Transportation,US,Sep,272.517,2023-09-01
+2014,All items less food and energy,US,Sep,238.841,2014-09-01
+2015,All items less food and energy,US,Sep,243.359,2015-09-01
+2016,All items less food and energy,US,Sep,248.731,2016-09-01
+2017,All items less food and energy,US,Sep,252.941,2017-09-01
+2018,All items less food and energy,US,Sep,258.429,2018-09-01
+2019,All items less food and energy,US,Sep,264.522,2019-09-01
+2020,All items less food and energy,US,Sep,269.054,2020-09-01
+2021,All items less food and energy,US,Sep,279.884,2021-09-01
+2022,All items less food and energy,US,Sep,298.442,2022-09-01
+2023,All items less food and energy,US,Sep,310.817,2023-09-01
+2014,Housing,US,Sep,234.675,2014-09-01
+2015,Housing,US,Sep,239.651,2015-09-01
+2016,Housing,US,Sep,246.127,2016-09-01
+2017,Housing,US,Sep,252.984,2017-09-01
+2018,Housing,US,Sep,259.941,2018-09-01
+2019,Housing,US,Sep,267.822,2019-09-01
+2020,Housing,US,Sep,273.116,2020-09-01
+2021,Housing,US,Sep,283.744,2021-09-01
+2022,Housing,US,Sep,306.521,2022-09-01
+2023,Housing,US,Sep,323.563,2023-09-01
+2014,Energy,US,Sep,247.077,2014-09-01
+2015,Energy,US,Sep,201.641,2015-09-01
+2016,Energy,US,Sep,195.852,2016-09-01
+2017,Energy,US,Sep,215.711,2017-09-01
+2018,Energy,US,Sep,226.165,2018-09-01
+2019,Energy,US,Sep,215.418,2019-09-01
+2020,Energy,US,Sep,198.858,2020-09-01
+2021,Energy,US,Sep,248.228,2021-09-01
+2022,Energy,US,Sep,297.343,2022-09-01
+2023,Energy,US,Sep,296.004,2023-09-01
+2014,Food and beverages,US,Sep,244.26,2014-09-01
+2015,Food and beverages,US,Sep,248.09,2015-09-01
+2016,Food and beverages,US,Sep,247.645,2016-09-01
+2017,Food and beverages,US,Sep,250.735,2017-09-01
+2018,Food and beverages,US,Sep,254.178,2018-09-01
+2019,Food and beverages,US,Sep,258.646,2019-09-01
+2020,Food and beverages,US,Sep,268.465,2020-09-01
+2021,Food and beverages,US,Sep,280.452,2021-09-01
+2022,Food and beverages,US,Sep,310.678,2022-09-01
+2023,Food and beverages,US,Sep,322.249,2023-09-01
+2014,Medical care,US,Sep,436.575,2014-09-01
+2015,Medical care,US,Sep,447.289,2015-09-01
+2016,Medical care,US,Sep,469.154,2016-09-01
+2017,Medical care,US,Sep,476.485,2017-09-01
+2018,Medical care,US,Sep,484.708,2018-09-01
+2019,Medical care,US,Sep,501.468,2019-09-01
+2020,Medical care,US,Sep,522.528,2020-09-01
+2021,Medical care,US,Sep,524.818,2021-09-01
+2022,Medical care,US,Sep,556.323,2022-09-01
+2023,Medical care,US,Sep,548.431,2023-09-01
+2014,Education,US,Sep,235.378,2014-09-01
+2015,Education,US,Sep,244.351,2015-09-01
+2016,Education,US,Sep,250.469,2016-09-01
+2017,Education,US,Sep,255.783,2017-09-01
+2018,Education,US,Sep,262.336,2018-09-01
+2019,Education,US,Sep,268.357,2019-09-01
+2020,Education,US,Sep,272.241,2020-09-01
+2021,Education,US,Sep,277.551,2021-09-01
+2022,Education,US,Sep,286.151,2022-09-01
+2023,Education,US,Sep,294.357,2023-09-01
+2014,All items,Midwest,Sep,226.913,2014-09-01
+2015,All items,Midwest,Sep,225.184,2015-09-01
+2016,All items,Midwest,Sep,227.636,2016-09-01
+2017,All items,Midwest,Sep,231.03,2017-09-01
+2018,All items,Midwest,Sep,235.524,2018-09-01
+2019,All items,Midwest,Sep,238.847,2019-09-01
+2020,All items,Midwest,Sep,241.878,2020-09-01
+2021,All items,Midwest,Sep,255.709,2021-09-01
+2022,All items,Midwest,Sep,276.549,2022-09-01
+2023,All items,Midwest,Sep,285.276,2023-09-01
+2014,All items,Northeast,Sep,253.154,2014-09-01
+2015,All items,Northeast,Sep,252.922,2015-09-01
+2016,All items,Northeast,Sep,256.085,2016-09-01
+2017,All items,Northeast,Sep,260.875,2017-09-01
+2018,All items,Northeast,Sep,266.709,2018-09-01
+2019,All items,Northeast,Sep,270.563,2019-09-01
+2020,All items,Northeast,Sep,273.925,2020-09-01
+2021,All items,Northeast,Sep,286.423,2021-09-01
+2022,All items,Northeast,Sep,307.152,2022-09-01
+2023,All items,Northeast,Sep,316.373,2023-09-01
+2014,All items,South,Sep,231.762,2014-09-01
+2015,All items,South,Sep,230.913,2015-09-01
+2016,All items,South,Sep,234.069,2016-09-01
+2017,All items,South,Sep,239.649,2017-09-01
+2018,All items,South,Sep,243.64,2018-09-01
+2019,All items,South,Sep,246.891,2019-09-01
+2020,All items,South,Sep,250.193,2020-09-01
+2021,All items,South,Sep,264.593,2021-09-01
+2022,All items,South,Sep,287.656,2022-09-01
+2023,All items,South,Sep,299.657,2023-09-01
+2014,All items,West,Sep,241.92,2014-09-01
+2015,All items,West,Sep,244.257,2015-09-01
+2016,All items,West,Sep,249.234,2016-09-01
+2017,All items,West,Sep,256.504,2017-09-01
+2018,All items,West,Sep,265.105,2018-09-01
+2019,All items,West,Sep,272.102,2019-09-01
+2020,All items,West,Sep,276.422,2020-09-01
+2021,All items,West,Sep,291.053,2021-09-01
+2022,All items,West,Sep,315.094,2022-09-01
+2023,All items,West,Sep,327.491,2023-09-01
+2014,All items,US,Oct,237.433,2014-10-01
+2015,All items,US,Oct,237.838,2015-10-01
+2016,All items,US,Oct,241.729,2016-10-01
+2017,All items,US,Oct,246.663,2017-10-01
+2018,All items,US,Oct,252.885,2018-10-01
+2019,All items,US,Oct,257.346,2019-10-01
+2020,All items,US,Oct,260.388,2020-10-01
+2021,All items,US,Oct,276.589,2021-10-01
+2022,All items,US,Oct,298.012,2022-10-01
+2023,All items,US,Oct,307.671,2023-10-01
+2014,Transportation,US,Oct,212.626,2014-10-01
+2015,Transportation,US,Oct,195.858,2015-10-01
+2016,Transportation,US,Oct,196.185,2016-10-01
+2017,Transportation,US,Oct,202.457,2017-10-01
+2018,Transportation,US,Oct,213.482,2018-10-01
+2019,Transportation,US,Oct,210.487,2019-10-01
+2020,Transportation,US,Oct,203.086,2020-10-01
+2021,Transportation,US,Oct,241.042,2021-10-01
+2022,Transportation,US,Oct,267.979,2022-10-01
+2023,Transportation,US,Oct,270.027,2023-10-01
+2014,All items less food and energy,US,Oct,239.413,2014-10-01
+2015,All items less food and energy,US,Oct,243.985,2015-10-01
+2016,All items less food and energy,US,Oct,249.218,2016-10-01
+2017,All items less food and energy,US,Oct,253.638,2017-10-01
+2018,All items less food and energy,US,Oct,259.063,2018-10-01
+2019,All items less food and energy,US,Oct,265.059,2019-10-01
+2020,All items less food and energy,US,Oct,269.328,2020-10-01
+2021,All items less food and energy,US,Oct,281.617,2021-10-01
+2022,All items less food and energy,US,Oct,299.315,2022-10-01
+2023,All items less food and energy,US,Oct,311.38,2023-10-01
+2014,Housing,US,Oct,234.434,2014-10-01
+2015,Housing,US,Oct,239.395,2015-10-01
+2016,Housing,US,Oct,246.264,2016-10-01
+2017,Housing,US,Oct,253.125,2017-10-01
+2018,Housing,US,Oct,260.268,2018-10-01
+2019,Housing,US,Oct,267.794,2019-10-01
+2020,Housing,US,Oct,273.014,2020-10-01
+2021,Housing,US,Oct,285.31,2021-10-01
+2022,Housing,US,Oct,307.816,2022-10-01
+2023,Housing,US,Oct,323.964,2023-10-01
+2014,Energy,US,Oct,234.745,2014-10-01
+2015,Energy,US,Oct,194.501,2015-10-01
+2016,Energy,US,Oct,194.786,2016-10-01
+2017,Energy,US,Oct,207.29,2017-10-01
+2018,Energy,US,Oct,225.757,2018-10-01
+2019,Energy,US,Oct,216.351,2019-10-01
+2020,Energy,US,Oct,196.458,2020-10-01
+2021,Energy,US,Oct,255.338,2021-10-01
+2022,Energy,US,Oct,300.359,2022-10-01
+2023,Energy,US,Oct,286.754,2023-10-01
+2014,Food and beverages,US,Oct,244.775,2014-10-01
+2015,Food and beverages,US,Oct,248.575,2015-10-01
+2016,Food and beverages,US,Oct,247.861,2016-10-01
+2017,Food and beverages,US,Oct,251.13,2017-10-01
+2018,Food and beverages,US,Oct,254.203,2018-10-01
+2019,Food and beverages,US,Oct,259.284,2019-10-01
+2020,Food and beverages,US,Oct,269.169,2020-10-01
+2021,Food and beverages,US,Oct,282.943,2021-10-01
+2022,Food and beverages,US,Oct,312.86,2022-10-01
+2023,Food and beverages,US,Oct,323.262,2023-10-01
+2014,Medical care,US,Oct,437.027,2014-10-01
+2015,Medical care,US,Oct,450.065,2015-10-01
+2016,Medical care,US,Oct,469.23,2016-10-01
+2017,Medical care,US,Oct,477.121,2017-10-01
+2018,Medical care,US,Oct,485.269,2018-10-01
+2019,Medical care,US,Oct,506.1,2019-10-01
+2020,Medical care,US,Oct,520.725,2020-10-01
+2021,Medical care,US,Oct,527.564,2021-10-01
+2022,Medical care,US,Oct,554.043,2022-10-01
+2023,Medical care,US,Oct,549.762,2023-10-01
+2014,Education,US,Oct,235.92,2014-10-01
+2015,Education,US,Oct,244.7,2015-10-01
+2016,Education,US,Oct,251.173,2016-10-01
+2017,Education,US,Oct,256.435,2017-10-01
+2018,Education,US,Oct,262.947,2018-10-01
+2019,Education,US,Oct,268.878,2019-10-01
+2020,Education,US,Oct,272.465,2020-10-01
+2021,Education,US,Oct,278.047,2021-10-01
+2022,Education,US,Oct,286.449,2022-10-01
+2023,Education,US,Oct,294.084,2023-10-01
+2014,All items,Midwest,Oct,225.793,2014-10-01
+2015,All items,Midwest,Oct,225.05,2015-10-01
+2016,All items,Midwest,Oct,227.358,2016-10-01
+2017,All items,Midwest,Oct,230.66,2017-10-01
+2018,All items,Midwest,Oct,235.68,2018-10-01
+2019,All items,Midwest,Oct,239.243,2019-10-01
+2020,All items,Midwest,Oct,241.74,2020-10-01
+2021,All items,Midwest,Oct,257.793,2021-10-01
+2022,All items,Midwest,Oct,276.908,2022-10-01
+2023,All items,Midwest,Oct,284.981,2023-10-01
+2014,All items,Northeast,Oct,252.73,2014-10-01
+2015,All items,Northeast,Oct,252.504,2015-10-01
+2016,All items,Northeast,Oct,256.605,2016-10-01
+2017,All items,Northeast,Oct,260.58,2017-10-01
+2018,All items,Northeast,Oct,266.464,2018-10-01
+2019,All items,Northeast,Oct,270.348,2019-10-01
+2020,All items,Northeast,Oct,273.374,2020-10-01
+2021,All items,Northeast,Oct,288.236,2021-10-01
+2022,All items,Northeast,Oct,308.001,2022-10-01
+2023,All items,Northeast,Oct,316.3,2023-10-01
+2014,All items,South,Oct,231.131,2014-10-01
+2015,All items,South,Oct,230.86,2015-10-01
+2016,All items,South,Oct,234.337,2016-10-01
+2017,All items,South,Oct,239.067,2017-10-01
+2018,All items,South,Oct,244.163,2018-10-01
+2019,All items,South,Oct,247.423,2019-10-01
+2020,All items,South,Oct,250.542,2020-10-01
+2021,All items,South,Oct,267.16,2021-10-01
+2022,All items,South,Oct,288.836,2022-10-01
+2023,All items,South,Oct,299.394,2023-10-01
+2014,All items,West,Oct,241.65,2014-10-01
+2015,All items,West,Oct,244.341,2015-10-01
+2016,All items,West,Oct,249.897,2016-10-01
+2017,All items,West,Oct,257.223,2017-10-01
+2018,All items,West,Oct,266.195,2018-10-01
+2019,All items,West,Oct,273.524,2019-10-01
+2020,All items,West,Oct,276.876,2020-10-01
+2021,All items,West,Oct,293.397,2021-10-01
+2022,All items,West,Oct,317.299,2022-10-01
+2023,All items,West,Oct,327.708,2023-10-01
+2014,All items,US,Nov,236.151,2014-11-01
+2015,All items,US,Nov,237.336,2015-11-01
+2016,All items,US,Nov,241.353,2016-11-01
+2017,All items,US,Nov,246.669,2017-11-01
+2018,All items,US,Nov,252.038,2018-11-01
+2019,All items,US,Nov,257.208,2019-11-01
+2020,All items,US,Nov,260.229,2020-11-01
+2021,All items,US,Nov,277.948,2021-11-01
+2022,All items,US,Nov,297.711,2022-11-01
+2023,All items,US,Nov,307.051,2023-11-01
+2014,Transportation,US,Nov,206.874,2014-11-01
+2015,Transportation,US,Nov,194.404,2015-11-01
+2016,Transportation,US,Nov,195.411,2016-11-01
+2017,Transportation,US,Nov,204.014,2017-11-01
+2018,Transportation,US,Nov,209.924,2018-11-01
+2019,Transportation,US,Nov,209.763,2019-11-01
+2020,Transportation,US,Nov,202.828,2020-11-01
+2021,Transportation,US,Nov,245.532,2021-11-01
+2022,Transportation,US,Nov,264.668,2022-11-01
+2023,Transportation,US,Nov,267.035,2023-11-01
+2014,All items less food and energy,US,Nov,239.248,2014-11-01
+2015,All items less food and energy,US,Nov,244.075,2015-11-01
+2016,All items less food and energy,US,Nov,249.227,2016-11-01
+2017,All items less food and energy,US,Nov,253.492,2017-11-01
+2018,All items less food and energy,US,Nov,259.105,2018-11-01
+2019,All items less food and energy,US,Nov,265.108,2019-11-01
+2020,All items less food and energy,US,Nov,269.473,2020-11-01
+2021,All items less food and energy,US,Nov,282.754,2021-11-01
+2022,All items less food and energy,US,Nov,299.6,2022-11-01
+2023,All items less food and energy,US,Nov,311.606,2023-11-01
+2014,Housing,US,Nov,234.315,2014-11-01
+2015,Housing,US,Nov,239.325,2015-11-01
+2016,Housing,US,Nov,246.271,2016-11-01
+2017,Housing,US,Nov,253.177,2017-11-01
+2018,Housing,US,Nov,260.473,2018-11-01
+2019,Housing,US,Nov,267.925,2019-11-01
+2020,Housing,US,Nov,273.29,2020-11-01
+2021,Housing,US,Nov,286.308,2021-11-01
+2022,Housing,US,Nov,308.72,2022-11-01
+2023,Housing,US,Nov,324.735,2023-11-01
+2014,Energy,US,Nov,221.844,2014-11-01
+2015,Energy,US,Nov,189.267,2015-11-01
+2016,Energy,US,Nov,191.402,2016-11-01
+2017,Energy,US,Nov,209.383,2017-11-01
+2018,Energy,US,Nov,215.91,2018-11-01
+2019,Energy,US,Nov,214.636,2019-11-01
+2020,Energy,US,Nov,194.388,2020-11-01
+2021,Energy,US,Nov,259.1,2021-11-01
+2022,Energy,US,Nov,292.953,2022-11-01
+2023,Energy,US,Nov,277.029,2023-11-01
+2014,Food and beverages,US,Nov,244.902,2014-11-01
+2015,Food and beverages,US,Nov,247.87,2015-11-01
+2016,Food and beverages,US,Nov,247.246,2016-11-01
+2017,Food and beverages,US,Nov,250.694,2017-11-01
+2018,Food and beverages,US,Nov,254.262,2018-11-01
+2019,Food and beverages,US,Nov,259.08,2019-11-01
+2020,Food and beverages,US,Nov,268.539,2020-11-01
+2021,Food and beverages,US,Nov,284.168,2021-11-01
+2022,Food and beverages,US,Nov,313.467,2022-11-01
+2023,Food and beverages,US,Nov,322.703,2023-11-01
+2014,Medical care,US,Nov,438.445,2014-11-01
+2015,Medical care,US,Nov,451.371,2015-11-01
+2016,Medical care,US,Nov,469.333,2016-11-01
+2017,Medical care,US,Nov,477.198,2017-11-01
+2018,Medical care,US,Nov,486.886,2018-11-01
+2019,Medical care,US,Nov,507.541,2019-11-01
+2020,Medical care,US,Nov,519.848,2020-11-01
+2021,Medical care,US,Nov,528.877,2021-11-01
+2022,Medical care,US,Nov,550.844,2022-11-01
+2023,Medical care,US,Nov,551.769,2023-11-01
+2014,Education,US,Nov,236.098,2014-11-01
+2015,Education,US,Nov,244.865,2015-11-01
+2016,Education,US,Nov,251.155,2016-11-01
+2017,Education,US,Nov,256.721,2017-11-01
+2018,Education,US,Nov,263.119,2018-11-01
+2019,Education,US,Nov,268.88,2019-11-01
+2020,Education,US,Nov,272.359,2020-11-01
+2021,Education,US,Nov,278.097,2021-11-01
+2022,Education,US,Nov,286.792,2022-11-01
+2023,Education,US,Nov,293.674,2023-11-01
+2014,All items,Midwest,Nov,224.396,2014-11-01
+2015,All items,Midwest,Nov,224.009,2015-11-01
+2016,All items,Midwest,Nov,226.673,2016-11-01
+2017,All items,Midwest,Nov,231.084,2017-11-01
+2018,All items,Midwest,Nov,234.292,2018-11-01
+2019,All items,Midwest,Nov,238.85,2019-11-01
+2020,All items,Midwest,Nov,241.316,2020-11-01
+2021,All items,Midwest,Nov,258.911,2021-11-01
+2022,All items,Midwest,Nov,276.436,2022-11-01
+2023,All items,Midwest,Nov,284.539,2023-11-01
+2014,All items,Northeast,Nov,251.781,2014-11-01
+2015,All items,Northeast,Nov,252.573,2015-11-01
+2016,All items,Northeast,Nov,256.541,2016-11-01
+2017,All items,Northeast,Nov,260.63,2017-11-01
+2018,All items,Northeast,Nov,265.487,2018-11-01
+2019,All items,Northeast,Nov,270.643,2019-11-01
+2020,All items,Northeast,Nov,273.543,2020-11-01
+2021,All items,Northeast,Nov,289.835,2021-11-01
+2022,All items,Northeast,Nov,308.394,2022-11-01
+2023,All items,Northeast,Nov,316.252,2023-11-01
+2014,All items,South,Nov,229.845,2014-11-01
+2015,All items,South,Nov,230.422,2015-11-01
+2016,All items,South,Nov,234.029,2016-11-01
+2017,All items,South,Nov,238.861,2017-11-01
+2018,All items,South,Nov,243.484,2018-11-01
+2019,All items,South,Nov,247.385,2019-11-01
+2020,All items,South,Nov,250.255,2020-11-01
+2021,All items,South,Nov,268.36,2021-11-01
+2022,All items,South,Nov,288.991,2022-11-01
+2023,All items,South,Nov,298.93,2023-11-01
+2014,All items,West,Nov,240.22,2014-11-01
+2015,All items,West,Nov,243.749,2015-11-01
+2016,All items,West,Nov,249.448,2016-11-01
+2017,All items,West,Nov,257.126,2017-11-01
+2018,All items,West,Nov,265.658,2018-11-01
+2019,All items,West,Nov,273.128,2019-11-01
+2020,All items,West,Nov,276.875,2020-11-01
+2021,All items,West,Nov,294.986,2021-11-01
+2022,All items,West,Nov,315.919,2022-11-01
+2023,All items,West,Nov,326.299,2023-11-01
+2014,All items,US,Dec,234.812,2014-12-01
+2015,All items,US,Dec,236.525,2015-12-01
+2016,All items,US,Dec,241.432,2016-12-01
+2017,All items,US,Dec,246.524,2017-12-01
+2018,All items,US,Dec,251.233,2018-12-01
+2019,All items,US,Dec,256.974,2019-12-01
+2020,All items,US,Dec,260.474,2020-12-01
+2021,All items,US,Dec,278.802,2021-12-01
+2022,All items,US,Dec,296.797,2022-12-01
+2023,All items,US,Dec,306.746,2023-12-01
+2014,Transportation,US,Dec,199.777,2014-12-01
+2015,Transportation,US,Dec,191.528,2015-12-01
+2016,Transportation,US,Dec,196.252,2016-12-01
+2017,Transportation,US,Dec,203.023,2017-12-01
+2018,Transportation,US,Dec,204.541,2018-12-01
+2019,Transportation,US,Dec,208.482,2019-12-01
+2020,Transportation,US,Dec,203.56,2020-12-01
+2021,Transportation,US,Dec,246.499,2021-12-01
+2022,Transportation,US,Dec,255.993,2022-12-01
+2023,Transportation,US,Dec,263.375,2023-12-01
+2014,All items less food and energy,US,Dec,238.775,2014-12-01
+2015,All items less food and energy,US,Dec,243.779,2015-12-01
+2016,All items less food and energy,US,Dec,249.134,2016-12-01
+2017,All items less food and energy,US,Dec,253.558,2017-12-01
+2018,All items less food and energy,US,Dec,259.083,2018-12-01
+2019,All items less food and energy,US,Dec,264.935,2019-12-01
+2020,All items less food and energy,US,Dec,269.226,2020-12-01
+2021,All items less food and energy,US,Dec,283.908,2021-12-01
+2022,All items less food and energy,US,Dec,300.113,2022-12-01
+2023,All items less food and energy,US,Dec,311.907,2023-12-01
+2014,Housing,US,Dec,234.658,2014-12-01
+2015,Housing,US,Dec,239.514,2015-12-01
+2016,Housing,US,Dec,246.795,2016-12-01
+2017,Housing,US,Dec,253.845,2017-12-01
+2018,Housing,US,Dec,261.36,2018-12-01
+2019,Housing,US,Dec,268.236,2019-12-01
+2020,Housing,US,Dec,273.684,2020-12-01
+2021,Housing,US,Dec,287.511,2021-12-01
+2022,Housing,US,Dec,310.725,2022-12-01
+2023,Housing,US,Dec,325.64,2023-12-01
+2014,Energy,US,Dec,209.785,2014-12-01
+2015,Energy,US,Dec,183.378,2015-12-01
+2016,Energy,US,Dec,193.306,2016-12-01
+2017,Energy,US,Dec,206.598,2017-12-01
+2018,Energy,US,Dec,205.905,2018-12-01
+2019,Energy,US,Dec,212.982,2019-12-01
+2020,Energy,US,Dec,198.155,2020-12-01
+2021,Energy,US,Dec,256.207,2021-12-01
+2022,Energy,US,Dec,274.937,2022-12-01
+2023,Energy,US,Dec,269.375,2023-12-01
+2014,Food and beverages,US,Dec,245.585,2014-12-01
+2015,Food and beverages,US,Dec,247.468,2015-12-01
+2016,Food and beverages,US,Dec,247.134,2016-12-01
+2017,Food and beverages,US,Dec,251.024,2017-12-01
+2018,Food and beverages,US,Dec,255.023,2018-12-01
+2019,Food and beverages,US,Dec,259.403,2019-12-01
+2020,Food and beverages,US,Dec,269.383,2020-12-01
+2021,Food and beverages,US,Dec,285.556,2021-12-01
+2022,Food and beverages,US,Dec,314.459,2022-12-01
+2023,Food and beverages,US,Dec,322.933,2023-12-01
+2014,Medical care,US,Dec,439.72,2014-12-01
+2015,Medical care,US,Dec,451.072,2015-12-01
+2016,Medical care,US,Dec,469.447,2016-12-01
+2017,Medical care,US,Dec,477.802,2017-12-01
+2018,Medical care,US,Dec,487.409,2018-12-01
+2019,Medical care,US,Dec,509.689,2019-12-01
+2020,Medical care,US,Dec,518.766,2020-12-01
+2021,Medical care,US,Dec,530.026,2021-12-01
+2022,Medical care,US,Dec,551.002,2022-12-01
+2023,Medical care,US,Dec,553.485,2023-12-01
+2014,Education,US,Dec,236.066,2014-12-01
+2015,Education,US,Dec,244.777,2015-12-01
+2016,Education,US,Dec,251.466,2016-12-01
+2017,Education,US,Dec,256.469,2017-12-01
+2018,Education,US,Dec,263.199,2018-12-01
+2019,Education,US,Dec,268.7,2019-12-01
+2020,Education,US,Dec,272.437,2020-12-01
+2021,Education,US,Dec,277.904,2021-12-01
+2022,Education,US,Dec,287.177,2022-12-01
+2023,Education,US,Dec,294.04,2023-12-01
+2014,All items,Midwest,Dec,222.821,2014-12-01
+2015,All items,Midwest,Dec,222.722,2015-12-01
+2016,All items,Midwest,Dec,226.794,2016-12-01
+2017,All items,Midwest,Dec,230.548,2017-12-01
+2018,All items,Midwest,Dec,233.458,2018-12-01
+2019,All items,Midwest,Dec,238.734,2019-12-01
+2020,All items,Midwest,Dec,241.453,2020-12-01
+2021,All items,Midwest,Dec,259.609,2021-12-01
+2022,All items,Midwest,Dec,275.182,2022-12-01
+2023,All items,Midwest,Dec,283.908,2023-12-01
+2014,All items,Northeast,Dec,250.519,2014-12-01
+2015,All items,Northeast,Dec,251.67,2015-12-01
+2016,All items,Northeast,Dec,256.427,2016-12-01
+2017,All items,Northeast,Dec,260.791,2017-12-01
+2018,All items,Northeast,Dec,265.286,2018-12-01
+2019,All items,Northeast,Dec,270.429,2019-12-01
+2020,All items,Northeast,Dec,274.225,2020-12-01
+2021,All items,Northeast,Dec,290.405,2021-12-01
+2022,All items,Northeast,Dec,308.15,2022-12-01
+2023,All items,Northeast,Dec,316.143,2023-12-01
+2014,All items,South,Dec,228.451,2014-12-01
+2015,All items,South,Dec,229.581,2015-12-01
+2016,All items,South,Dec,234.204,2016-12-01
+2017,All items,South,Dec,238.512,2017-12-01
+2018,All items,South,Dec,242.15,2018-12-01
+2019,All items,South,Dec,247.289,2019-12-01
+2020,All items,South,Dec,250.693,2020-12-01
+2021,All items,South,Dec,269.263,2021-12-01
+2022,All items,South,Dec,288.205,2022-12-01
+2023,All items,South,Dec,298.754,2023-12-01
+2014,All items,West,Dec,239.095,2014-12-01
+2015,All items,West,Dec,243.434,2015-12-01
+2016,All items,West,Dec,249.516,2016-12-01
+2017,All items,West,Dec,257.347,2017-12-01
+2018,All items,West,Dec,265.209,2018-12-01
+2019,All items,West,Dec,272.584,2019-12-01
+2020,All items,West,Dec,276.593,2020-12-01
+2021,All items,West,Dec,296.102,2021-12-01
+2022,All items,West,Dec,314.599,2022-12-01
+2023,All items,West,Dec,325.932,2023-12-01

@@ -1,0 +1,16 @@
+seaborn
+matplotlib
+numpy
+pathlib
+pandas
+shiny
+shinywidgets
+plotly
+faicons
+statsmodels
+scikit-learn
+torch
+
+
+
+
